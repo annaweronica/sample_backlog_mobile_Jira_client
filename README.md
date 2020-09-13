@@ -67,7 +67,7 @@ List of the features: <br>
 2. Invite members of the user's team through email or phone numer
 3. Star the most important/ favourite project
 
-[WIREFRAMES](../sample_backlog_wireframes.pdf)
+![WIREFRAMES](../sample_backlog_wireframes.pdf)
 
 
 # USER STORIES
