@@ -1,4 +1,5 @@
 # Sample backlog for mobile Jira client
+
 Sample backlog as recruitment task for mobile Jira client
 
 ## What is Jira
@@ -10,7 +11,6 @@ Jira currently is the most popular software to track, manage and plan Agile and 
 4. Select already existing project and issue 
 
 > Owning to the fact that the mobile application already exist I used it as a source for this documentation and followed the Apple example on my iphone <br> [Sorce](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=95003656689&campaign=9124878870&creative=415542763138&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51242194730&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjw4_H6BRALEiwAvgfzq3wWElt2RNH53jIHXi96HIKP2K0qA6kp4ajTggwMx6_0AwzDBNO4YRoCSV8QAvD_BwE&gclsrc=aw.ds)
-
 
 ## Strategy plan 
 What are the main goles of the documentation?<br>
@@ -67,11 +67,14 @@ List of the features: <br>
 2. Invite members of the user's team through email or phone numer
 3. Star the most important/ favourite project
 
-![WIREFRAMES](../sample_backlog_wireframes.pdf)
 
+# WIREFRAMES 
+
+![Wireframes cliclable presentation](sample_backlog_wireframes.pdf)
 
 # USER STORIES
 
+[User stories](USER_STORIES.md)
 
 
 
