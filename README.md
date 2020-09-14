@@ -10,7 +10,7 @@ Jira currently is the most popular software to track, manage and plan Agile and 
 3. Create an issue
 4. Select already existing project and issue 
 
-> Owning to the fact that the mobile application already exist I used it as a source for this documentation and followed the Apple example on my iphone <br> [Sorce](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=95003656689&campaign=9124878870&creative=415542763138&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51242194730&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjw4_H6BRALEiwAvgfzq3wWElt2RNH53jIHXi96HIKP2K0qA6kp4ajTggwMx6_0AwzDBNO4YRoCSV8QAvD_BwE&gclsrc=aw.ds)
+> Owning to the fact that the mobile application already exist I used it as a source for this documentation and followed the Apple example on my iphone <br> [Source](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=95003656689&campaign=9124878870&creative=415542763138&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51242194730&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjw4_H6BRALEiwAvgfzq3wWElt2RNH53jIHXi96HIKP2K0qA6kp4ajTggwMx6_0AwzDBNO4YRoCSV8QAvD_BwE&gclsrc=aw.ds)
 
 ## Strategy plan 
 What are the main goles of the documentation?<br>
@@ -42,7 +42,7 @@ List of the features: <br>
 7. Select project tempalte
 8. Star the most important/ favourite project
 9. Create an issue in the project's backlog
-10. Selet and view already exisiting 
+10. Selet and view already exisiting issue
 
 ## Sceleton plan 
 
@@ -53,29 +53,23 @@ List of the features: <br>
 ## Existing features
 
 1. Log in/ sign up page
-2. Invite members of the user's team through email or phone numer
-3. Skip he option of inviting team's members
-4. Create new project
-5. Select already existing project
-6. Select project tempalte
-7. Create an issue in the project's backlog
-8. Selet and view already exisiting 
-
-## Features to be documented
-
-1. Log in/sign up through Google, Microsoft, Apple
-2. Invite members of the user's team through email or phone numer
-3. Star the most important/ favourite project
-
+2. Log in/sign up through Google, Microsoft, Apple
+3. Invite members of the user's team through email or phone numer
+4. Skip he option of inviting team's members
+5. Create new project
+6. Select already existing project
+7. Star the most important/ favourite project
+8. Select project tempalte
+9. Create an issue in the project's backlog
+10. Selet and view already exisiting issue
 
 # WIREFRAMES 
 
-![Wireframes cliclable presentation](sample_backlog_wireframes.pdf)
+[Wireframes presentation](sample_backlog_wireframes.pdf)
 
 # USER STORIES
 
 [User stories](USER_STORIES.md)
-
 
 
 

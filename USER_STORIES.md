@@ -1,1 +1,37 @@
-Stories to be added here
+| LP | Feature            | US ID | AS A/AN  | I WANT TO BE ABLE TO…                                                | SO THAT I CAN…                                                                                |
+| -- | ------------------ | ----- | -------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+|    |
+| 1. | Sign up            |       |          |                                                                      |                                                                                               |
+|    |                    | 1.1   | New User | Easily sign up for an account                                        | Have a mobile account for the project I am working on with my dev team.                       |
+|    |                    | 1.2   | New User | Easily sing up with already existing authentication                  | Have quick access with already existing account                                               |
+| 2. | Log in             |       |          |                                                                      |                                                                                               |
+|    |                    | 2.1   | User     | Easily log in                                                        | Have an access to my personal account                                                         |
+|    |                    | 2.2   | User     | Have a personal user profile                                         | View all my personal projects and issues                                                      |
+| 3. | Invite your team   |       |          |                                                                      |                                                                                               |
+|    |                    | 3.1   | User     | Invite members of the project we are working on together             | Every member of the team have mobile access to the tracking developemnt  progress application |
+|    |                    | 3.2   | User     | Invite a member of the team through an email                         | Notify a member of an possibility to join the application                                     |
+|    |                    | 3.3   | User     | Invite a member of the team using phone number from the contact list | Notify a member of an possibility to join the application                                     |
+| 4. | Skip inviting team |       |          |                                                                      |                                                                                               |
+|    |                    | 4.1   | User     | Skip the option of inviting member of the team                       | Go directly to the page with projects                                                         |
+| 5. | Creating a project |       |          |                                                                      |                                                                                               |
+|    |                    | 5.1   | User     | Create a new project                                                 | Make a backlog of issues for the project and prioritie them                                   |
+|    |                    | 5.2   | User     | Type project's name                                                  | Easily recognize what is the project about                                                    |
+|    |                    | 5.3   | User     | Choose project template                                              | work in the most convinient way                                                               |
+|    |                    | 5.4   | User     | Click on the button Create                                           | Be re-directed to the next page                                                               |
+| 6. | Select a project   |       |          |                                                                      |                                                                                               |
+|    |                    | 6.1   | User     | Select already existing project                                      | Enter the backlog with issues                                                                 |
+| 7. | Star a project     |       |          |                                                                      |                                                                                               |
+|    |                    | 7.1   | User     | Click on the star                                                    | It is easily visible and the user can access quickly starred project                          |
+| 8. | Create an issue    |       |          |                                                                      |                                                                                               |
+|    |                    | 8.1   | User     | Click on the plus                                                    | Create a new issue in the backlog                                                             |
+|    |                    | 8.2   | User     | See a list of all created issues in the backlog                      | enter any issue from the list                                                                 |
+|    |                    | 8.3   | User     | Type Issue summary                                                   | To add new issue to the already existing list                                                 |
+|    |                    | 8.4   | User     | Click on the type of issue under Issue Summary                       | Recognize an issue as task, story, bug or epic                                                |
+| 9. | Select an issue    |       |          |                                                                      |                                                                                               |
+|    |                    | 9.1   | User     | Click on the workflow stage                                          | Change from to do to in progress or done                                                      |
+|    |                    | 9.2   | User     | Add description of the issue                                         | Share all the details of the issue with others                                                |
+|    |                    | 9.3   | User     | Click on the Assignee or right directed error next to it             | Assign a member of the project to the issue                                                   |
+|    |                    | 9.4   | User     | Click on the Labels or right directed arror next to it               | Add a label to the issue                                                                      |
+|    |                    | 9.5   | User     | Click on the Time estimate or right directed arror next to it        | Add a time estimate to the issue                                                              |
+|    |                    | 9.6   | User     | Click on the Priority or right directed arror next to it             | Add priority to the issue                                                                     |
+|    |                    | 9.7   | User     | type a comment in comment section                                    | Leave a comment in the issue which allows others to comment as well                           |
